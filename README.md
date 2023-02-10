@@ -16,7 +16,7 @@ PROPERTY OF ABC 123 DESYGN ™
 - VIDEO GAME DEVELOPMENT
 
 
-This notebook is is for a custom ML tool that allows you to select regions of an image to edit using language instructions. Speeds up pre production workflows including storyboarding, concept art, location scouting, costume and design etc.
+🤖💭 This notebook is is for a custom A.I tool that allows you to select regions of an image to edit using language instructions. Speeds up pre production workflows including storyboarding, concept art, location scouting, costume and design etc.
 
 ## EXAMPLE:
 
